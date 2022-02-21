@@ -1,4 +1,6 @@
-### Repository Setup
+# The Last Corner
+An end-world shelter simulation game where you have to keep your people healthy and feed and away from zombies.
+# Repository Setup
 1. Clone the repository that is in your own github to your local machine.
 
 ## Workflow
