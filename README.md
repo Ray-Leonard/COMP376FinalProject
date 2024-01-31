@@ -12,6 +12,7 @@ An end-world shelter simulation game where you have to keep your people healthy 
 6. Push your local branch onto github
 7. Make a pull request to the main branch
 8. After the pull request get reviewed, squash and merge.
-9. 
+
+
 * [Trailer Video](https://www.youtube.com/watch?v=jEPX-156gRA)
 ---
