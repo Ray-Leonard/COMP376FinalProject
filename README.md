@@ -13,6 +13,5 @@ An end-world shelter simulation game where you have to keep your people healthy 
 7. Make a pull request to the main branch
 8. After the pull request get reviewed, squash and merge.
 9. 
-* [Demo Video](https://youtu.be/mKe63GRVHrs)
-* [New Demo Video](https://youtu.be/9-qdBgyy6fk)
+* [Trailer Video](https://www.youtube.com/watch?v=jEPX-156gRA)
 ---
